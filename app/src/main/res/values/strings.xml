@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AsteroidesPabloApp</string>
+    <string name="tituloAplicacion">AsteroidesPablo</string>
+    <string name="Arrancar">Arrancar</string>
+    <string name="Configurar">Configurar</string>
+    <string name="Acercade">A cerca de</string>
+    <string name="Salir">salir</string>
+    <string name="et_acerca_de">APLICACIÓN ASTEROIDES:Hola soy Nombre y Apelelido del alumno.Este programa ha sido desarrollado com o ejemplo para demostrar cómo se pueden lanzar nuevas activ idades desde la actividad principal.</string>
+</resources>

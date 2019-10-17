@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    <string name="app_name">AsteroidesPabloApp</string>
+    <string name="tituloAplicacion">AsteroidesPablo</string>
+    <string name="Arrancar">Start</string>
+    <string name="Configurar">Settings</string>
+    <string name="Acercade">About</string>
+    <string name="Salir">Exit</string>
+    <string name="et_acerca_de">APLICACIÓN ASTEROIDES:Hola soy Nombre y Apelelido del alumno.Este programa ha sido desarrollado com o ejemplo para demostrar cómo se pueden lanzar nuevas activ idades desde la actividad principal.</string>
+</resources>
